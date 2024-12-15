@@ -44,6 +44,7 @@ Download the simulated data from: [zenodo](https://doi.org/10.5281/zenodo.733112
 - `types.txt`: Contains the information about geometries of PixelAV dataset.
 
 ### Trained models
+First extract `model_zoo.zip` to extract all the models and to run the notebooks all the `trained_model`s folder is required to be inthe same directory.
 All the folder names with `trained_models` contain the trained models for different geometries and time slices. And also the mdmm and the non-mdmm training.
 
 Each trained models have a unique name assigned randomly to each model for easy identification.
