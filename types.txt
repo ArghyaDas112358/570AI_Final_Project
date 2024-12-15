@@ -1,0 +1,26 @@
+# Dataset 2s (Barrel, physical pT)
+dataset2s type1: 50 um x 10 um x 100 um sensor @ 100V
+dataset2s type2: 50 um x 12.5 um x 100 um sensor @ 100V
+dataset2s type3: 50 um x 15 um x 100 um sensor @ 100V
+dataset2s type4: 50 um x 20 um x 100 um sensor @ 100V
+dataset2s type5: 50 um x 25 um x 100 um sensor @ 100V
+dataset2s type6: 100 um x 25 um x 100 um sensor @ 100V
+dataset2s type7: 100 um x 25 um x 150 um sensor @ 175V
+
+# Dataset 3s (Barrel, flat pT)
+dataset3s type1: 50 um x 10 um x 100 um sensor @ 100V
+dataset3s type2: 50 um x 12.5 um x 100 um sensor @ 100V
+dataset3s type3: 50 um x 15 um x 100 um sensor @ 100V
+dataset3s type4: 50 um x 20 um x 100 um sensor @ 100V
+dataset3s type5: 50 um x 25 um x 100 um sensor @ 100V
+dataset3s type6: 100 um x 25 um x 100 um sensor @ 100V
+dataset3s type7: 100 um x 25 um x 150 um sensor @ 175V
+
+# Dataset 4s (End-caps, physical pT)
+dataset4s type1: 50 um x 10 um x 100 um sensor @ 100V
+dataset4s type2: 50 um x 12.5 um x 100 um sensor @ 100V
+dataset4s type3: 50 um x 15 um x 100 um sensor @ 100V
+dataset4s type4: 50 um x 20 um x 100 um sensor @ 100V
+dataset4s type5: 50 um x 25 um x 100 um sensor @ 100V
+dataset4s type6: 100 um x 25 um x 100 um sensor @ 100V
+dataset4s type7: 100 um x 25 um x 150 um sensor @ 175V
